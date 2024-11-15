@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "2024 Tesla Model S",
+      "description": "A high-performance electric sedan with an all-electric range of up to 370 miles.",
+      "tags": ["electric", "sedan", "performance"],
+      "images": [
+        "https://media.ed.edmunds-media.com/tesla/model-s/2024/oem/2024_tesla_model-s_sedan_plaid_fq_oem_1_600.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPDhUx8ndVM9fquYB-rVKQv0H7est7Klx1X4qcjSi1Mq54f5SnVyQVBdm6b20qQfIFlk&usqp=CAU"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2024 Ford Mustang GT",
+      "description": "A muscle car with powerful V8 engine and iconic design.",
+      "tags": ["muscle car", "sports", "v8"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68BJlZ6UgLkLQlA9AtFe1txWGDlTsMhYpPQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbci9F7POCxwnCNrhRRleb9A89QIGUX0BOEg&s"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "2024 Audi R8",
+      "description": "A stunning luxury sports car featuring a V10 engine and an unparalleled driving experience.",
+      "tags": ["luxury", "sports car", "v10"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGny_cyFmBfHnqBbfCuwyXh-keJ_hRPDcH6g&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRZcD4NWmHldEdLWVwV73FLT6vt3NGUnJ8g&s"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "2024 BMW M5",
+      "description": "A powerful performance sedan that combines luxury and speed with its 617 horsepower engine.",
+      "tags": ["sedan", "luxury", "performance"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhA5gML13gP7p8x2xZNjEjqmaegD0q3UiVg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ae1XxECwj9_NUhUpLIHbCtwDcAlDmWEwEQ&s"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "2024 Porsche 911",
+      "description": "An iconic sports car that combines precision handling with a 443-horsepower engine.",
+      "tags": ["sports car", "luxury", "iconic"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_-qASw7nDupgG1HMX2Z63YeIj4jVx5qtVA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1h5YFzBwGQINECEfwrmAukRXlXIQ_KSvMg&s"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "2024 Toyota Supra",
+      "description": "A legendary sports coupe featuring a turbocharged inline-six engine and a sleek design.",
+      "tags": ["sports coupe", "turbo", "iconic"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yELIi1TqwiJwhW9nSruypcOR_0k87MbKVg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfiojOh54-8Lh3aX188wx3g1NUdV-dyYRpjw&s"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "2024 Lamborghini Aventador",
+      "description": "A fierce supercar with a 730-horsepower V12 engine and breathtaking speed.",
+      "tags": ["supercar", "luxury", "v12"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRscBzVV3GL7pdRG_3UoMWKuhnueXomknHfZg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIaoqAQ3kM0e4oWAfoapjvDikYnxoBJhQ0gA&s"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "2024 Mercedes-Benz G-Class",
+      "description": "A luxury SUV with rugged off-road capabilities and a powerful V8 engine.",
+      "tags": ["SUV", "luxury", "off-road"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvoaZOxz8ZeZeHs1WN_KacexOpI7Otu9UfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTVsqDVa8GbdWYnkZe0KpPY304acQOa1c6g&s"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "2024 Ferrari F8 Tributo",
+      "description": "A high-performance sports car that blends extreme speed with sleek, aerodynamic design.",
+      "tags": ["sports car", "ferrari", "performance"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdiMsnm7-h1bpkktdbxigr_2WtCQ-cF_HSg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7CsUPBvCbaPvWvWHvhIlj1adjJofaf5V4g&s"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "2024 Chevrolet Corvette Stingray",
+      "description": "A powerful American sports car with a mid-engine V8, delivering thrilling acceleration and handling.",
+      "tags": ["sports car", "american", "v8"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFb5roIeI_OrcraiObeclvuMGrbagXWjYM5A&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqIF8EU6NNZ1qQg-A3WEBbzAUAT9kXAM_zA&s"
+      ]
+    }
+  ]
+  
